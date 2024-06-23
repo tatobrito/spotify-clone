@@ -12,5 +12,8 @@
   "devDependencies": {
     "tailwindcss": "^3.4.4"
   },
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "init": "^0.1.2"
+  }
 }
